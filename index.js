@@ -1,2 +1,7 @@
-/* This is a file inserted to keep the learn IDE browser happy */
-const testVar = {}
+const int = 5678
+function numOfDigits(int){
+    console.log(int.split())
+    return int.split()
+} 
+
+numOfDigits(int)
